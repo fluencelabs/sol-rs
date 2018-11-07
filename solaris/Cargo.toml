@@ -7,7 +7,7 @@ authors = ["Tomasz Drwięga <tomusdrw@gmail.com>"]
 ethabi = { git = "https://github.com/paritytech/ethabi.git" }
 ethcore = { git = "https://github.com/paritytech/parity.git" }
 ethcore-transaction = { git = "https://github.com/paritytech/parity.git" }
-ethcore-bytes = "0.1.1"
+ethcore-bytes = "0.1.0"
 ethereum-types = "0.3"
 evm = { git = "https://github.com/paritytech/parity.git" }
 lazy_static = "0.2"
